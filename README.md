@@ -1,4 +1,3 @@
 # itgyy.github.io
 
-个人主页介绍
-
+个人简介
